@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jeewx-os"
+  id="myeclipse.1497949434759"
+  context-root="/jeewx-os"
+  j2ee-spec="5.0"
+  archive="jeewx-os.war">
+  <attributes>
+    <attribute name="webrootdir" value="/src/main/webapp" />
+  </attributes>
+</project-module>
+
